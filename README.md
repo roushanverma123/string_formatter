@@ -1,3 +1,3 @@
 # string_formatter
 
-https://github.com/roushanverma123/string_formatter
+https://roadmap.sh/projects/js-string-formatter
